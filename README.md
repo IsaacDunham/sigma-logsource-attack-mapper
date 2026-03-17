@@ -50,7 +50,7 @@ python sigma-logsource-attack-mapper.py --paths rules/ rules-threat-hunting/
 ## Example
 
 ``` bash
-python sigma-logsource-attack-mapper.py --sigma-repo "H:\GitHub\sigma" --require-techniques --status-filter stable --logsource-views product+category product+service --top 30
+python sigma-logsource-attack-mapper.py --sigma-repo "C:\GitHub\sigma" --require-techniques --status-filter stable --logsource-views product+category product+service --top 30
 ```
 
 ``` title:Output

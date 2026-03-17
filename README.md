@@ -62,7 +62,7 @@ Rules skipped      : 3367
 Unique tags        : 97
 Unique techniques  : 67
 Parse errors       : 0
-Paths scanned      : H:\GitHub\sigma\rules, H:\GitHub\sigma\rules-compliance, H:\GitHub\sigma\rules-dfir, H:\GitHub\sigma\rules-emerging-threats, H:\GitHub\sigma\rules-placeholder, H:\GitHub\sigma\rules-threat-hunting
+Paths scanned      : C:\GitHub\sigma\rules, C:\GitHub\sigma\rules-compliance, C:\GitHub\sigma\rules-dfir, C:\GitHub\sigma\rules-emerging-threats, C:\GitHub\sigma\rules-placeholder, C:\GitHub\sigma\rules-threat-hunting
 Views              : product+category, product+service
 Active filters     : require_techniques=True, status_filter=['stable']
 Skip reasons       : status_filtered_out=2890, missing_technique_tags=477

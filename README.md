@@ -1,4 +1,4 @@
-# mitre-attack-mappers
+# Security Telemetry Utilities
 
 A little collection of tools I yelled at my robot to make. Each maps ATT&CK data from a different angle.
 

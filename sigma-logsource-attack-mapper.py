@@ -11,8 +11,6 @@ The logsource aggregation is view-driven and can be done by any combination of:
   product, category, service
 """
 
-from __future__ import annotations
-
 import argparse
 import json
 import os

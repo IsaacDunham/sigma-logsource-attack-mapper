@@ -38,7 +38,7 @@ TAXII_COLLECTIONS_PATH = "/api/v21/collections/"
 TAXII_OBJECTS_PATH_TEMPLATE = "/api/v21/collections/{collection_id}/objects/"
 TAXII_ACCEPT_HEADER = "application/taxii+json;version=2.1"
 TAXII_TIMEOUT_SECONDS = 60
-TAXII_PAGE_SIZE = 5000             # request up to 5000 objects/page. there are around ~16000 objects
+TAXII_PAGE_SIZE = 5000             # request up to 5000 objects/page. there are around ~25000 objects
 TAXII_PAGE_DELAY_SECONDS = 1       # polite pause between page fetches
 TAXII_RETRY_DELAYS = (15, 30, 60, 120)  # seconds to wait on 429, per attempt
 
